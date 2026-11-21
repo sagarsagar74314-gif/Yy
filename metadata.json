@@ -1,0 +1,6 @@
+{
+  "name": "Aanya — 3D Voice AI & Mobile Control",
+  "description": "3D anime AI companion with real-time voice conversation, voiceprint isolation, Android control bridge, video studio, and Google Workspace integration.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
